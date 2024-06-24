@@ -1,0 +1,62 @@
+﻿Gene,Annotation,Level_1_binary,Level_1_annotation,Level_2_binary_t_cells,Level_2_annotation_t_cells,Level_2_binary_macrophages,Level_2_annotation_macrophages,Level_2_binary_dendritic_cells,Level_2_annotation_dendritic_cells
+Acta1,Myonuclei,FALSE,NA,FALSE,NA,FALSE,NA,FALSE,NA
+Acta2,Smooth muscle,FALSE,NA,FALSE,NA,FALSE,NA,FALSE,NA
+Adgre1,F4/80 macrophage marker,TRUE,Macrophages,FALSE,NA,TRUE,Macrophages,FALSE,NA
+Bcl2,"T cell survival, memory",FALSE,NA,FALSE,NA,FALSE,NA,FALSE,NA
+Ccl5,NK cell,TRUE,NK cells,FALSE,NA,FALSE,NA,FALSE,NA
+Ccr7,Naive and central memory,FALSE,NA,TRUE,Naïve T cells,FALSE,NA,FALSE,NA
+Cd19,B cell co-receptor,TRUE,B cells,FALSE,NA,FALSE,NA,FALSE,NA
+Cd22,B cell receptor,TRUE,B cells,FALSE,NA,FALSE,NA,FALSE,NA
+Cd28,Co-stimulation,FALSE,NA,FALSE,NA,FALSE,NA,FALSE,NA
+Cd3d,T cell receptor,TRUE,T cells,TRUE,T cells,FALSE,NA,FALSE,NA
+Cd3e,T cell receptor,TRUE,T cells,TRUE,T cells,FALSE,NA,FALSE,NA
+Cd3g,T cell receptor,TRUE,T cells,TRUE,T cells,FALSE,NA,FALSE,NA
+Cd4,Helper T cells,FALSE,NA,TRUE,CD4+ T cells,FALSE,NA,FALSE,NA
+Cd40,"Co-stimulatory molecule, B cell activation",TRUE,B cells,FALSE,NA,FALSE,NA,FALSE,NA
+Cd44,T cell activation,FALSE,NA,FALSE,NA,FALSE,NA,FALSE,NA
+Cd68,Macrophage activation,TRUE,Macrophages,FALSE,NA,TRUE,Activated Macrophages,FALSE,NA
+Cd74,B cell,FALSE,NA,FALSE,NA,FALSE,NA,FALSE,NA
+Cd79a,Ig-alpha chain of B cell antigen receptor,TRUE,B cells,FALSE,NA,FALSE,NA,FALSE,NA
+Cd83,Maturation marker for dendritic cells,FALSE,NA,FALSE,NA,FALSE,NA,FALSE,NA
+Cd86,"Co-stimulatory molecule, T cell activation",FALSE,NA,FALSE,NA,FALSE,NA,FALSE,NA
+Cd8a,Cytotoxic T cells,FALSE,NA,TRUE,CD8+ T cells,FALSE,NA,FALSE,NA
+Cdh5,Endothelial (Artery+Vein+Capillary),TRUE,Endothelial cells,FALSE,NA,FALSE,NA,FALSE,NA
+Csf1r,Colony-stimulating factor 1 receptor,TRUE,Macrophages,FALSE,NA,TRUE,Monocytes,FALSE,NA
+Dmd,Myonuclei,FALSE,NA,FALSE,NA,FALSE,NA,FALSE,NA
+Flt3,"FLT3 receptor, dendritic cell marker",FALSE,NA,FALSE,NA,FALSE,NA,FALSE,NA
+Foxp3,Regulatory T cells,FALSE,NA,TRUE,Treg,FALSE,NA,FALSE,NA
+Gzma,NK cell,TRUE,NK cells,FALSE,NA,FALSE,NA,FALSE,NA
+H2-Aa,Antigen presentation to CD4+ T cells,FALSE,NA,FALSE,NA,FALSE,NA,FALSE,NA
+H2-K1,Antigen presentation to CD8+ T cells,FALSE,NA,FALSE,NA,FALSE,NA,FALSE,NA
+Ifng,Th1 cell marker,FALSE,NA,TRUE,Th1,FALSE,NA,FALSE,NA
+Il17a,Th17 cell marker,FALSE,NA,TRUE,Th17,FALSE,NA,FALSE,NA
+Il2ra,Treg marker,FALSE,NA,TRUE,Treg,FALSE,NA,FALSE,NA
+Il4,Th2 cell marker,FALSE,NA,TRUE,Th2,FALSE,NA,FALSE,NA
+Il7r,"T cell survival, homeostasis",FALSE,NA,FALSE,NA,FALSE,NA,FALSE,NA
+Irf4,cDC2 marker,TRUE,Dendritic cells,FALSE,NA,FALSE,NA,TRUE,cDC2
+Irf8,cDC1 marker,TRUE,Dendritic cells,FALSE,NA,FALSE,NA,TRUE,cDC1
+Itgam,Macrophage-1 antigen,TRUE,Macrophages,FALSE,NA,TRUE,Macrophages,FALSE,NA
+Itgax,CD11c dendritic cell marker,TRUE,Dendritic cells,FALSE,NA,FALSE,NA,TRUE,Dendritic cells
+Lef1,T cell development,FALSE,NA,TRUE,Naïve T cells,FALSE,NA,FALSE,NA
+Lrg1,Endothelial (Vein),TRUE,Endothelial cells,FALSE,NA,FALSE,NA,FALSE,NA
+Ly6a,Endothelial (Artery),TRUE,Endothelial cells,FALSE,NA,FALSE,NA,FALSE,NA
+Lyz2,"Lysozyme, macrophage marker",TRUE,Macrophages,FALSE,NA,TRUE,Monocytes,FALSE,NA
+Ms4a1,CD20 B cell marker,TRUE,B cells,FALSE,NA,FALSE,NA,FALSE,NA
+Myf5,MuSCs,FALSE,NA,FALSE,NA,FALSE,NA,FALSE,NA
+Myh11,Smooth muscle,FALSE,NA,FALSE,NA,FALSE,NA,FALSE,NA
+Myl9,Smooth muscle,FALSE,NA,FALSE,NA,FALSE,NA,FALSE,NA
+Mymk,Myoblasts/Progenitors,FALSE,NA,FALSE,NA,FALSE,NA,FALSE,NA
+Mymx,Myoblasts/Progenitors,FALSE,NA,FALSE,NA,FALSE,NA,FALSE,NA
+Myog,Myoblasts/Progenitors,FALSE,NA,FALSE,NA,FALSE,NA,FALSE,NA
+Nkg7,NK cell,TRUE,NK cells,FALSE,NA,FALSE,NA,FALSE,NA
+Pax7,MuSCs,FALSE,NA,FALSE,NA,FALSE,NA,FALSE,NA
+Pdcd1,"T cell exhaustion, inhibitory receptor",FALSE,NA,TRUE,PD-1+ T cells,FALSE,NA,FALSE,NA
+Pecam1,Endothelial (Artery+Vein+Capillary),TRUE,Endothelial cells,FALSE,NA,FALSE,NA,FALSE,NA
+Ptprc,NK cell,TRUE,NK cells,FALSE,NA,FALSE,NA,FALSE,NA
+Rgs5,Smooth muscle,FALSE,NA,FALSE,NA,FALSE,NA,FALSE,NA
+Sell,T cell migration / central memory,FALSE,NA,TRUE,Naïve T cells,FALSE,NA,FALSE,NA
+Sirpa,"Signal-regulatory protein alpha, dendritic cell marker",TRUE,Dendritic cells,FALSE,NA,FALSE,NA,FALSE,NA
+Tbx21,Th1 cell marker,FALSE,NA,TRUE,Th1,FALSE,NA,FALSE,NA
+Tcf7,T cell development,FALSE,NA,FALSE,NA,FALSE,NA,FALSE,NA
+Tnnt3,Myonuclei,FALSE,NA,FALSE,NA,FALSE,NA,FALSE,NA
+Xcr1,Dendritic cell marker,TRUE,Dendritic cells,FALSE,NA,FALSE,NA,TRUE,Dendritic cells
